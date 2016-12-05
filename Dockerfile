@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Leon Pegg "leon.pegg@gmail.com"
+MAINTAINER Phil Austin "paustin@eos.ubc.ca"
 
 ENV DEBIAN_FRONTEND noninteractive
 
